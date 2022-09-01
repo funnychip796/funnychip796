@@ -2,7 +2,7 @@ Hello I'm funnychip.
 
 <img src="src/Pictures/me.jpg" width = "200px" />
 
-Visit me through [my blog](https://www.cnblogs.com/funnychip796/)
+Visit me through my [cnblog](https://www.cnblogs.com/funnychip796/)
 
 ![avatar1](src/Pictures/init.gif)
 
